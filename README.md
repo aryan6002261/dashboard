@@ -29,7 +29,7 @@ The dashboard is divided into three main sections:
 
 ```
 project-folder/
-│── index.html
+│── dashboard.html
 │── styles.css
 └── README.md
 ```
