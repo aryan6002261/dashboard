@@ -73,8 +73,8 @@ Displays:
 ## ▶️ How to Run
 
 1. Clone or download the project
-2. Make sure `index.html` and `styles.css` are in the same folder
-3. Open `index.html` in any modern web browser
+2. Make sure `dashboard.html` and `styles.css` are in the same folder
+3. Open `dashboard.html` in any modern web browser
 
 ---
 
